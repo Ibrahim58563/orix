@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "430573416302",
+    "project_id": "orix-febd7",
+    "storage_bucket": "orix-febd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430573416302:android:b8ef7e2fbb201604195b7f",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430573416302-8nkntmi6o0kdihc74pujsfodl9fisg4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3hnRQiBXBTXzSuPsF0FzWud64IOdyXmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430573416302-8nkntmi6o0kdihc74pujsfodl9fisg4v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "430573416302-lnhh3o42k0oqpml6tfmoqtpda27al5rp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.orix"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430573416302:android:75fe263e5ddb9090195b7f",
+        "android_client_info": {
+          "package_name": "com.example.orix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430573416302-8nkntmi6o0kdihc74pujsfodl9fisg4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3hnRQiBXBTXzSuPsF0FzWud64IOdyXmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430573416302-8nkntmi6o0kdihc74pujsfodl9fisg4v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "430573416302-lnhh3o42k0oqpml6tfmoqtpda27al5rp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.orix"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
